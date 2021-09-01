@@ -7,7 +7,7 @@ Given a list of instructions (Hexadecimal Format), it creates a virtual demonstr
 
 Various details like no. of cache misses, no. of write accesses, no. of dirty blocks evicted are also written to the output file.
 
-This simulator (through the various parameter values it outputs) helps understand the behaviour of a cache with different combinations of block sizes, associativity, and replacement policies. 
+This simulator (through the various parameter values it outputs) helps the user understand the behaviour of a cache with different combinations of block sizes, associativity, and replacement policies. 
 
 This can help understand which combinations are best suited to execute a given class of applications.
 
