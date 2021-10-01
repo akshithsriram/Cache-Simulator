@@ -20,4 +20,4 @@ Skills involved:
 - Decoding input instructions to obtain type of the instruction and memory addresses. 
 
 
-This project was created as a part of the course CS2610: Computer Organization and Architecture Lab, taught by [Prof. Madhu Mutyam](http://www.cse.iitm.ac.in/~madhu/) of IIT Madras.
+This project was created as a part of the course CS2610: Computer Organization and Architecture Lab, taught by [Prof. Madhu Mutyam](http://www.cse.iitm.ac.in/~madhu/) during Jan-May semester of 2021 at IIT Madras.
